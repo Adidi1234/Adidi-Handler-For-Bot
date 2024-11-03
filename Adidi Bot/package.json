@@ -12,6 +12,6 @@
   "dependencies": {
     "better-chalk": "^1.0.0",
     "discord.js": "^14.14.1",
-    "fs": "^0.0.1-security"
+    "fs": "^0.0.2"
   }
 }
